@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(135deg, #f8fafc 0%, #eef2f7 50%, #e2e8f0 100%) !important;
+}
+
+.panel-body {
+  background: transparent !important;
+}
+
+.container,
+.container-fluid {
+  background: transparent !important;
+}
